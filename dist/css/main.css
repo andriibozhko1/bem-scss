@@ -1,0 +1,230 @@
+.clearfix {
+  content: "";
+  display: table;
+  clear: both; }
+
+.container {
+  width: 940px;
+  margin: auto; }
+
+.red-dot {
+  color: #fa5c65; }
+
+.top {
+  height: 75px; }
+
+.top__logo {
+  float: left;
+  height: 100%;
+  width: 140px;
+  background: #fa5c65;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  text-align: center;
+  color: #fff;
+  font-family: 'Domine', serif;
+  font-weight: bold;
+  line-height: 100px;
+  font-size: 20px; }
+
+.black-dot {
+  color: #000; }
+
+.nav {
+  float: right;
+  margin-top: 15px; }
+
+.nav__top-bar {
+  list-style: none;
+  font-family: 'Montserrat', sans-serif; }
+
+.nav__item {
+  display: inline-block; }
+
+.nav__link {
+  color: #263742;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 20px;
+  padding: 5px;
+  display: block; }
+
+.main-head {
+  height: 1050px;
+  background: url("../images/Photo.png") no-repeat;
+  background-size: 100%; }
+
+.slogan {
+  margin-top: 310px; }
+
+.slogan__h1 {
+  text-transform: uppercase;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 48px;
+  color: #465065;
+  position: relative;
+  bottom: 20px;
+  font-weight: 800; }
+
+.slogan__p {
+  font-family: 'Open Sans', sans-serif;
+  color: #314a5b;
+  margin-bottom: 40px;
+  font-size: 20px; }
+
+.slogan__btn {
+  border: 0;
+  cursor: pointer;
+  padding: 20px 40px 20px 40px;
+  text-decoration: none;
+  border-radius: 20px;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  background-color: #fa5c65; }
+
+.snippets {
+  height: 280px;
+  text-align: center;
+  margin-top: 50px; }
+
+.snippets__snipp {
+  display: inline-block;
+  width: 280px;
+  height: 200px;
+  margin-right: 2px;
+  display: inline-block; }
+
+.snippets__title {
+  text-align: left; }
+
+.snippets__h1 {
+  color: #465065;
+  font-family: Montserrat;
+  font-size: 26px;
+  font-weight: 900;
+  line-height: 26px;
+  text-transform: uppercase; }
+
+.snippets__p {
+  margin-top: 20px;
+  font-family: "Open Sans";
+  font-size: 15px;
+  color: #9aa0ab;
+  line-height: 22px; }
+
+.more {
+  font-family: Montserrat;
+  color: #f0454c;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 20px;
+  text-decoration: none; }
+
+.portfolio-macbook__macbook {
+  width: 424px;
+  height: 406px;
+  float: left; }
+
+.portfolio-macbook__img-mac {
+  margin-top: 50px; }
+
+.portfolio-macbook__portfolio {
+  float: right;
+  height: 406px;
+  width: 423px;
+  margin-top: 40px; }
+
+.portfolio-macbook__title {
+  color: #314a5b;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #465065; }
+
+.portfolio-macbook__sub-text {
+  margin-top: 10px;
+  color: #314a5b;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px; }
+
+.portfolio-macbook__p {
+  color: #9aa0ab;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 50px; }
+
+.our-team__title {
+  font-family: "Montserrat",sans-serif;
+  font-size: 32px;
+  color: #314a5b;
+  margin-bottom: 50px; }
+
+.our-team__p {
+  font-size: 0;
+  font-size: 16px; }
+
+.our-team__carts {
+  width: 100%;
+  height: 170px; }
+
+.our-team__cart {
+  width: 305px;
+  height: 100%;
+  display: inline-block; }
+
+.our-team__info {
+  float: right;
+  width: 170px;
+  margin-top: 10px; }
+
+.our-team__name {
+  font-family: Montserrat;
+  font-size: 22px;
+  color: #314a5b;
+  font-weight: bold; }
+
+.our-team__profession {
+  font-family: "Open Sans";
+  font-size: 14px;
+  color: #f0454c; }
+
+.our-team__interests {
+  font-size: 14px;
+  font-family: "Open Sans";
+  color: #9aa0ab;
+  margin-top: 13px; }
+
+.div-more {
+  float: right;
+  margin-bottom: 10px; }
+
+.bottom-line {
+  border: 1px solid #e6eaed;
+  margin: 70px 0 0 0; }
+
+.social-icons__icons {
+  list-style: none;
+  margin: 50px 0 50px 0;
+  float: left; }
+
+.social-icons__item {
+  display: inline-block;
+  margin-right: 15px; }
+
+.social-icons__link {
+  display: block;
+  padding: 5px; }
+
+.copyrights {
+  font-family: "Open Sans";
+  font-size: 13px;
+  color: #b9c0c6;
+  float: right;
+  margin-top: 50px; }
